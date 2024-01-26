@@ -66,7 +66,7 @@ def main():
                 'Event': {'tag': 'h2', 'class': 'Typography_root__487rx #3a3247 Typography_body-lg__487rx event-card__clamp-line--two Typography_align-match-parent__487rx'},
                 'Date': {'tag': 'p', 'class': 'Typography_root__487rx #3a3247 Typography_body-md-bold__487rx Typography_align-match-parent__487rx'},
                 'Location': {'tag': 'p', 'class': 'Typography_root__487rx #585163 Typography_body-md__487rx event-card__clamp-line--one Typography_align-match-parent__487rx'},
-                'Image URL': {'tag': 'a', 'class': 'event-card-link'}
+                'Image URL': {'tag': 'img', 'class': 'event-card-image'}
             }
         }
     ]
